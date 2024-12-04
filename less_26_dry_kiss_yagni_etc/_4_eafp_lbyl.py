@@ -28,4 +28,4 @@ def read_from_file_lbyl(name):
             result = file.readlines()
         return result
     else:
-        # code
+        pass
